@@ -7,37 +7,32 @@ div.header{
 }
 
 div.person_info{
-border-style: solid;
-  border-color: black;
+
 }
 
 img.person_image{
-border-style: solid;
-  border-color: black;
+
 }
 
 #nameSound25{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.nameSound25{
-border-style: solid;
-  border-color: black;
+
 }
 
 span.username{
-border-style: solid;
+  border-style: solid;
   border-color: black;
 }
 
 div.nav{
-border-style: solid;
-  border-color: black;
+  
 }
 
 h1{
-border-style: solid;
+  border-style: solid;
   border-color: black;
 }
 
@@ -62,8 +57,7 @@ border-style: solid;
 }
 
 div.reading{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.assignment-label{
@@ -77,13 +71,11 @@ border-style: solid;
 }
 
 a.assignment_link{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.assignmentWidget ASSIGNED{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.assignment-title{
