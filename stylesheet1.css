@@ -1,6 +1,7 @@
 body{
   background-color: #b3ffe0;
 }
+/* ----------Student info, links to other pages---------- */
 div.header{
   border-style: solid;
   border-color: black;
@@ -29,12 +30,14 @@ span.username{
 div.nav{
   
 }
-
+/* ---------------------------------------- */
+/* ----------Home Page---------- */
 h1{
   border-style: solid;
   border-color: black;
 }
-
+/* ---------------------------------------- */
+/* ----------Preperation Section---------- */
 div.day-box PREP{
   
 }
@@ -85,7 +88,8 @@ div.lab-box{
   border-style: solid;
   border-color: black;
 }
-
+/* ---------------------------------------- */
+/* ----------Current Section---------- */
 div.day-box CURRENT{
   border-style: solid;
   border-color: black;
