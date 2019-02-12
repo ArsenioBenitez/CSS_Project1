@@ -23,8 +23,7 @@ div.nameSound25{
 }
 
 span.username{
-  border-style: solid;
-  border-color: black;
+ 
 }
 
 div.nav{
@@ -50,12 +49,12 @@ border-style: solid;
 }
 
 div.reading-box{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.reading{
-
+  border-style: solid;
+  border-color: black;
 }
 
 div.assignment-label{
@@ -99,8 +98,7 @@ div.assignmentWidget GRADING{
 }
 
 div.day-box COMPLETED{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.grade{
