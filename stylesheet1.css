@@ -37,13 +37,11 @@ h1{
 }
 
 div.day-box PREP{
-  border-style: solid;
-  border-color: black;
+  
 }
 
 div.day{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.notes{
@@ -61,8 +59,7 @@ div.reading{
 }
 
 div.assignment-label{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.prep-box{
@@ -89,8 +86,7 @@ border-style: solid;
 }
 
 div.lab-box{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.day-box CURRENT{
@@ -99,8 +95,7 @@ border-style: solid;
 }
 
 div.assignmentWidget GRADING{
-border-style: solid;
-  border-color: black;
+
 }
 
 div.day-box COMPLETED{
