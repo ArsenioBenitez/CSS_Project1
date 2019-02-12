@@ -61,8 +61,7 @@ div.assignment-label{
 }
 
 div.prep-box{
-border-style: solid;
-  border-color: black;
+
 }
 
 a.assignment_link{
@@ -78,16 +77,17 @@ div.assignment-title{
 }
 
 div.grading-box{
-border-style: solid;
+  border-style: solid;
   border-color: black;
 }
 
 div.lab-box{
-
+  border-style: solid;
+  border-color: black;
 }
 
 div.day-box CURRENT{
-border-style: solid;
+  border-style: solid;
   border-color: black;
 }
 
