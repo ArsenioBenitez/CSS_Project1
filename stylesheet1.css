@@ -7,31 +7,38 @@ div.header{
 }
 
 div.person_info{
-
+border-style: solid;
+  border-color: black;
 }
 
 img.person_image{
-
+border-style: solid;
+  border-color: black;
 }
 
 #nameSound25{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.nameSound25{
-
+border-style: solid;
+  border-color: black;
 }
 
 span.username{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.nav{
-
+border-style: solid;
+  border-color: black;
 }
 
 h1{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.day-box PREP{
@@ -40,61 +47,76 @@ div.day-box PREP{
 }
 
 div.day{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.notes{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.reading-box{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.reading{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.assignment-label{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.prep-box{
-
+border-style: solid;
+  border-color: black;
 }
 
 a.assignment_link{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.assignmentWidget ASSIGNED{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.assignment-title{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.grading-box{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.lab-box{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.day-box CURRENT{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.assignmentWidget GRADING{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.day-box COMPLETED{
-
+border-style: solid;
+  border-color: black;
 }
 
 div.grade{
-
+border-style: solid;
+  border-color: black;
 }
