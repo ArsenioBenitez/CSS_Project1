@@ -64,30 +64,16 @@ div.assignment-label{
 }
 
 div.prep-box{
-
+ 
 }
 
-a.assignment_link{
+div.assignment_link{
 
-}
-
-div.assignmentWidget ASSIGNED{
-
-}
-
-div.assignment-title{
-
-}
-
-div.grading-box{
-  border-style: solid;
-  border-color: black;
 }
 
 div.lab-box{
-  border-style: solid;
-  border-color: black;
 }
+
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
 div.day-box CURRENT{
