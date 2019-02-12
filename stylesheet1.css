@@ -2,7 +2,8 @@ body{
   background-color: #b3ffe0;
 }
 div.header{
-
+  border-style: solid;
+  border-color: black;
 }
 
 div.person_info{
