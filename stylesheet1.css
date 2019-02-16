@@ -39,7 +39,8 @@ h1{
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
 div.day-box PREP{
-  
+  border-style: solid;
+  border-color: black;
 }
 
 div.day{
@@ -55,8 +56,7 @@ div.reading-box{
 }
 
 div.reading{
-  border-style: solid;
-  border-color: black;
+  
 }
 
 div.assignment-label{
