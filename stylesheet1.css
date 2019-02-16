@@ -24,11 +24,11 @@ div.nameSound25{
 }
 
 span.username{
- 
+
 }
 
 div.nav{
-  
+
 }
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
@@ -38,13 +38,14 @@ h1{
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
-div.day-box PREP{
+div.day-boxPREP{
   border-style: solid;
   border-color: black;
 }
 
 div.day{
-
+  border-style: solid;
+  border-color: black;
 }
 
 div.notes{
@@ -56,7 +57,7 @@ div.reading-box{
 }
 
 div.reading{
-  
+
 }
 
 div.assignment-label{
@@ -64,7 +65,7 @@ div.assignment-label{
 }
 
 div.prep-box{
- 
+
 }
 
 div.assignment_link{
@@ -86,7 +87,8 @@ div.assignmentWidget GRADING{
 }
 
 div.day-box COMPLETED{
-
+  border-style: solid;
+  border-color: black;
 }
 
 div.grade{
