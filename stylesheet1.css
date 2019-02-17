@@ -1,5 +1,8 @@
 body{
   background-color: #f4fff2;
+  border: 15px solid transparent;
+  padding: 15 px;
+  border-image: url(border1.jpg);
 
 }
 /* ----------Student info, links to other pages---------- */
