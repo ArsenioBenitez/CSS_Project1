@@ -39,7 +39,7 @@ h1{
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
-div.day-box PREP{
+div.day-box.PREP{
   border-style: solid;
   border-color: black;
 }
@@ -83,11 +83,11 @@ div.day-box.CURRENT{
   border-color: black;
 }
 
-div.assignmentWidget GRADING{
+div.assignmentWidget.GRADING{
 
 }
 
-div.day-box COMPLETED{
+div.day-box.COMPLETED{
   border-style: solid;
   border-color: black;
 }
