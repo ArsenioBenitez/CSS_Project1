@@ -1,6 +1,6 @@
 body{
   background-color: #f4fff2;
-  font:normal Tahoma, Verdana, Arial, Georgia, sans-serif; 
+  font:normal Tahoma, Verdana, Arial, Georgia, sans-serif;
 }
 /* ----------Student info, links to other pages---------- */
 div.header{
@@ -39,7 +39,7 @@ h1{
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
-div.day-boxPREP{
+div.day-box PREP{
   border-style: solid;
   border-color: black;
 }
