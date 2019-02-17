@@ -45,8 +45,7 @@ div.day-box.PREP{
 }
 
 div.day{
-  border-style: solid;
-  border-color: black;
+
 }
 
 div.notes{
@@ -93,6 +92,5 @@ div.day-box.COMPLETED{
 }
 
 div.grade{
-border-style: solid;
-  border-color: black;
+\
 }
