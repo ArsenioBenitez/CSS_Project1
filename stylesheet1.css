@@ -8,6 +8,7 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
+  width: 500px;
 }
 
 div.person_info{
@@ -38,6 +39,7 @@ div.nav{
 h1{
   border-style: solid;
   border-color: black;
+  width: 500px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
@@ -45,6 +47,7 @@ div.day-box.PREP{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  width: 500px;
 }
 
 div.day{
@@ -84,6 +87,7 @@ div.day-box.CURRENT{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  width: 500px;
 }
 
 div.assignmentWidget.GRADING{
@@ -94,6 +98,7 @@ div.day-box.COMPLETED{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  width: 500px;
 }
 
 div.grade{
