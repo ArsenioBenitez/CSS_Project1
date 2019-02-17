@@ -78,7 +78,7 @@ div.lab-box{
 
 /* ---------------------------------------- */
 /* ----------Current Section---------- */
-div.day-box CURRENT{
+div.day-box.CURRENT{
   border-style: solid;
   border-color: black;
 }
