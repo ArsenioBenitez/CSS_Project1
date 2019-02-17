@@ -1,7 +1,6 @@
 body{
   background-color: #f4fff2;
   border: 40px solid transparent;
-  padding: 15 px;
   border-image: url(border1.jpg) 30 round;
 
 }
