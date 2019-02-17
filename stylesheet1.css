@@ -1,6 +1,6 @@
 body{
   background-color: #f4fff2;
-  
+
 }
 /* ----------Student info, links to other pages---------- */
 div.header{
@@ -43,6 +43,7 @@ div.day-box.PREP{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  font-size: 45px;
 }
 
 div.day{
