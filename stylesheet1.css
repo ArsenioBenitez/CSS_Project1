@@ -1,8 +1,8 @@
 body{
   background-color: #f4fff2;
-  border: 15px solid transparent;
+  border: 40px solid transparent;
   padding: 15 px;
-  border-image: url(border1.jpg);
+  border-image: url(border1.jpg) 30 round;
 
 }
 /* ----------Student info, links to other pages---------- */
@@ -46,7 +46,6 @@ div.day-box.PREP{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
-  font-size: 45px;
 }
 
 div.day{
