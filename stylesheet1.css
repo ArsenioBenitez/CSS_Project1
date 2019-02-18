@@ -1,9 +1,12 @@
+html{
+  <img src="dubia.jpg" id="background1" style="float:right;width:42px;height:42px;">>
+}
 body{
   background-color: #ffe194;
   border: 40px solid transparent;
   border-image: url(border2.jpg) 30 round;
 
-  
+
 
 
 }
