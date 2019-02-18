@@ -104,7 +104,7 @@ div.assignmentWidget.GRADING{
 div.day-box.COMPLETED{
   border-style: solid;
   border-color: black;
-  background: #5c4829;
+  background-image: url("background1.png");
   font-family: 'Comfortaa', cursive;
   width: 500px;
 }
