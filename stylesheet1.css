@@ -42,6 +42,8 @@ div.nav{
 h1{
   border-style: solid;
   border-color: black;
+  font-family: 'Yellowtail', cursive;
+  font-style: bold;
   float: left;
   clear: right;
   width: 500px;
