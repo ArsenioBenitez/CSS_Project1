@@ -9,6 +9,7 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
+  float: left;
   width: 500px;
 }
 
@@ -40,6 +41,7 @@ div.nav{
 h1{
   border-style: solid;
   border-color: black;
+  float: left;
   width: 500px;
 }
 /* ---------------------------------------- */
@@ -48,6 +50,7 @@ div.day-box.PREP{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  float: left;
   width: 500px;
 }
 
@@ -88,6 +91,7 @@ div.day-box.CURRENT{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  float: left;
   width: 500px;
 }
 
@@ -99,6 +103,7 @@ div.day-box.COMPLETED{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  float: left;
   width: 500px;
 }
 
