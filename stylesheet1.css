@@ -13,7 +13,7 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
-  width: 900px;
+  width: 1200px;
 }
 
 div.person_info{
@@ -46,7 +46,7 @@ h1{
   border-color: black;
   font-family: 'Yellowtail', cursive;
   font-style: bold;
-  width: 900px;
+  width: 1200px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
@@ -58,7 +58,7 @@ div.day-box.PREP{
   background-repeat: no-repeat;
   background-blend-mode: lighten;
   font-family: 'Comfortaa', cursive;
-  width: 900px;
+  width: 1200px;
 }
 
 div.day{
@@ -102,7 +102,7 @@ div.day-box.CURRENT{
   background-repeat: no-repeat;
   background-blend-mode: lighten;
   font-family: 'Comfortaa', cursive;
-  width: 900px;
+  width: 1200px;
 }
 
 div.assignmentWidget.GRADING{
@@ -117,7 +117,7 @@ div.day-box.COMPLETED{
   background-repeat: no-repeat;
   background-blend-mode: lighten;
   font-family: 'Comfortaa', cursive;
-  width: 900px;
+  width: 1200px;
 }
 
 div.grade{
