@@ -2,7 +2,7 @@ body{
   background-color: #ffe194;
   border: 40px solid transparent;
   border-image: url(border2.jpg) 30 round;
-  background-image: image(dubia);
+  background: url(dubia.jpg)left top no-repeat;
 
 
 }
