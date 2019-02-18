@@ -1,8 +1,9 @@
 body{
-  background: #ffe194  url(dubia.jpg)left top no-repeat;
+  background: url(dubia.jpg)left top no-repeat;
+  background-color: #ffe194;
   border: 40px solid transparent;
   border-image: url(border2.jpg) 30 round;
-  background: url(dubia.jpg)left top no-repeat;
+
 
 
 }
