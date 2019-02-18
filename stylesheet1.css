@@ -1,6 +1,6 @@
 body{
-  background-color: #f4fff2;
-  border: 35px solid transparent;
+  background-color: #ffe194;
+  border: 40px solid transparent;
   margin: 0px;
   border-image: url(border2.jpg) 30 round;
 
@@ -10,6 +10,7 @@ div.header{
   border-style: solid;
   border-color: black;
   float: left;
+  clear: right;
   width: 500px;
 }
 
@@ -42,6 +43,7 @@ h1{
   border-style: solid;
   border-color: black;
   float: left;
+  clear: right;
   width: 500px;
 }
 /* ---------------------------------------- */
@@ -51,6 +53,7 @@ div.day-box.PREP{
   border-color: black;
   font-family: 'Comfortaa', cursive;
   float: left;
+  clear: right;
   width: 500px;
 }
 
@@ -92,6 +95,7 @@ div.day-box.CURRENT{
   border-color: black;
   font-family: 'Comfortaa', cursive;
   float: left;
+  clear; right;
   width: 500px;
 }
 
@@ -104,6 +108,7 @@ div.day-box.COMPLETED{
   border-color: black;
   font-family: 'Comfortaa', cursive;
   float: left;
+  clear: right;
   width: 500px;
 }
 
