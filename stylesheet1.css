@@ -1,7 +1,8 @@
 body{
   background-color: #f4fff2;
   border: 35px solid transparent;
-  border-image: url(border1.jpg) 30 round;
+  margin: 0px;
+  border-image: url(border2.jpg) 30 round;
 
 }
 /* ----------Student info, links to other pages---------- */
