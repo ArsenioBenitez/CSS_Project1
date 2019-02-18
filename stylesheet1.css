@@ -53,6 +53,10 @@ h1{
 div.day-box.PREP{
   border-style: solid;
   border-color: black;
+  background-image: url("background1.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
   font-family: 'Comfortaa', cursive;
   width: 500px;
 }
@@ -93,6 +97,10 @@ div.lab-box{
 div.day-box.CURRENT{
   border-style: solid;
   border-color: black;
+  background-image: url("background1.png");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
   font-family: 'Comfortaa', cursive;
   width: 500px;
 }
