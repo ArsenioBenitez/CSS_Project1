@@ -13,7 +13,8 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
-  width: 1200px;
+  width: 500px;
+  margin-left: 500px;
 }
 
 div.person_info{
@@ -42,12 +43,10 @@ div.nav{
 /* ---------------------------------------- */
 /* ----------Home Page---------- */
 h1{
-  border-style: solid;
-  border-color: black;
   font-family: 'Yellowtail', cursive;
   font-style: bold;
   width: 500px;
-  margin-left: 300px;
+  margin-left: 500px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
@@ -55,6 +54,7 @@ div.day-box.PREP{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  float: right;
   width: 500px;
 }
 
@@ -95,6 +95,7 @@ div.day-box.CURRENT{
   border-style: solid;
   border-color: black;
   font-family: 'Comfortaa', cursive;
+  float: left;
   width: 500px;
 }
 
