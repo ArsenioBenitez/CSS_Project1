@@ -55,7 +55,6 @@ div.day-box.PREP{
   font-family: 'Comfortaa', cursive;
   float: right;
   width: 500px;
-  height: 300px;
 }
 
 div.day{
@@ -97,7 +96,6 @@ div.day-box.CURRENT{
   font-family: 'Comfortaa', cursive;
   float: left;
   width: 500px;
-  height: 300px;
 }
 
 div.assignmentWidget.GRADING{
