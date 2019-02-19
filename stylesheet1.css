@@ -14,7 +14,7 @@ div.header{
   border-style: solid;
   border-color: black;
   width: 600px;
-  margin-left: 500px;
+
 }
 
 div.person_info{
@@ -46,6 +46,7 @@ h1{
   font-family: 'Yellowtail', cursive;
   font-style: bold;
   width: 500px;
+  margin-left: 500px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
