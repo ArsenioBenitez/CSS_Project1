@@ -109,7 +109,7 @@ div.day-box.COMPLETED{
   border-color: black;
   font-family: 'Comfortaa', cursive;
   float: left;
-  clear: right;
+  clear: both;
   width: 500px;
   height: 400px;
 }
