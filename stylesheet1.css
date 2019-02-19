@@ -13,7 +13,7 @@ body{
 div.header{
   border-style: solid;
   border-color: black;
-  width: 500px;
+  width: 600px;
   margin-left: 500px;
 }
 
@@ -46,7 +46,6 @@ h1{
   font-family: 'Yellowtail', cursive;
   font-style: bold;
   width: 500px;
-  margin-left: 500px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
@@ -56,6 +55,7 @@ div.day-box.PREP{
   font-family: 'Comfortaa', cursive;
   float: right;
   width: 500px;
+  height: 400px;
 }
 
 div.day{
@@ -97,6 +97,7 @@ div.day-box.CURRENT{
   font-family: 'Comfortaa', cursive;
   float: left;
   width: 500px;
+  height: 400px;
 }
 
 div.assignmentWidget.GRADING{
@@ -108,6 +109,7 @@ div.day-box.COMPLETED{
   border-color: black;
   font-family: 'Comfortaa', cursive;
   width: 500px;
+  height: 400px;
 }
 
 div.grade{
