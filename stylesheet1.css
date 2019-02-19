@@ -11,7 +11,7 @@ body{
 }
 /* ----------Student info, links to other pages---------- */
 div.header{
-  
+
   width: 600px;
 
 }
@@ -45,7 +45,7 @@ h1{
   font-family: 'Yellowtail', cursive;
   font-style: bold;
   width: 500px;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 /* ---------------------------------------- */
 /* ----------Preperation Section---------- */
@@ -55,7 +55,7 @@ div.day-box.PREP{
   font-family: 'Comfortaa', cursive;
   float: right;
   width: 500px;
-  height: 400px;
+  height: 300px;
 }
 
 div.day{
@@ -97,7 +97,7 @@ div.day-box.CURRENT{
   font-family: 'Comfortaa', cursive;
   float: left;
   width: 500px;
-  height: 400px;
+  height: 300px;
 }
 
 div.assignmentWidget.GRADING{
